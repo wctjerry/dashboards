@@ -9,3 +9,11 @@ Mode is an online BI tool that supports SQL, Python and R. In this demo, I will 
 > [Yammer](https://en.wikipedia.org/wiki/Yammer) (acquired by Microsoft in 2012) is a social network for communicating with coworkers. Individuals share documents, updates, and ideas by posting them in groups. As a social network platform, this dashboard will help Yammer easily understand its performance on user acquisition and retention. In this demo, I've also shown how a dashboard could help you easily identify abnormality (WAU is decreasing), and narrow down possible causes behind the scene (Something wrong with Email compaign). 
 > 
 > You can view the fully functional and interactive dashboard [here](https://app.mode.com/wctjerry/reports/0b4c0dbe4dab/runs/68f70c1d4180). If that doesn't work for you, you could also take a look at this [static version](https://github.com/wctjerry/dashboards/blob/master/Yammer.pdf).
+
+### Tableau
+
+Tableau is a user-friendly BI tool that doesn't need to write any code (even SQL)! It has very much decreased the threshold to build good-looking charts. I especially like its color palettes, even default one! It is way much better than what Python and R have. Although it is easier to follow, it has limitations in some cases. Python and R are much more flexible. I have written a blog comparing between [R and Tableau](https://wctjerry.github.io/r_vs_tableau/R_vs_Tableau.html). Please feel free to take a look if you are interested.
+
+> [This dashboard](https://public.tableau.com/profile/jerry5570#!/vizhome/social-media/Theriseofsocialmedia) explores a few trends of social media. Inspired by Esteban Ortiz-Ospina's work. Personaly I think the most interesting chart is the last one. You can see how social media's adoption line compares to other technologies. 
+> 
+> [This dashboad](https://public.tableau.com/profile/jerry5570#!/vizhome/21550/sheet0) shows Lao Luo's first live show to promote products. I really like the waterfall chart in this scenario. It intuitively demonstrates the cumulative effect of sequentially introduced values by time (or categories).
