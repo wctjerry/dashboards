@@ -18,6 +18,8 @@ Mode is an online BI tool that supports SQL, Python and R. In this demo, I will 
 
 Tableau is a user-friendly BI tool that doesn't need to write any code (even SQL)! It has very much decreased the threshold to build good-looking charts. I especially like its color palettes, even default one! It is way much better than what Python and R have. Although it is easier to follow, it has limitations in some cases. Python and R are much more flexible. I have written a blog comparing between [R and Tableau](https://wctjerry.github.io/r_vs_tableau/R_vs_Tableau.html). Please feel free to take a look if you are interested.
 
+> [This dashboard](https://public.tableau.com/profile/jerry5570#!/vizhome/SuperstorePerformanceMonitor_16042004765830/SuperstorePerformanceMonitor) monitors Superstore's sales performance and drills down to a few potential opportunities. The dashboard also models a customer segmentation with RFM framework, and lists a few customer names for different marketing strategy. 
+> 
 > [This dashboard](https://public.tableau.com/profile/jerry5570#!/vizhome/social-media/Theriseofsocialmedia) explores a few trends of social media. Inspired by Esteban Ortiz-Ospina's work. Personaly I think the most interesting chart is the last one. You can see how social media's adoption line compares to other technologies. 
 > 
 > [This dashboads](https://public.tableau.com/profile/jerry5570#!/vizhome/21550/sheet0) shows Lao Luo's first live show to promote products. I really like the waterfall chart in this scenario. It intuitively demonstrates the cumulative effect of sequentially introduced values by time (or categories).
